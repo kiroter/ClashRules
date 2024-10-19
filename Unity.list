@@ -1,6 +1,7 @@
 # 内容：Unity
 # 域名关键字匹配
 DOMAIN-KEYWORD,unity
+DOMAIN-KEYWORD,onetrust
 # 域名后缀匹配
 DOMAIN-SUFFIX,unity.cn
 DOMAIN-SUFFIX,unity.com
